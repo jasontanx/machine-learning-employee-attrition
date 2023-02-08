@@ -1,12 +1,11 @@
 #####################################
 
-#Tan Jun Sheng
-#TP064017
-#AML Assignment
-#Topic: Building a reliable predictive model to predict employee attrition
-#Task: Predict employee Attrition
-#Model Implemented: Logistic Regression, Decision Tree & Naive Bayes
-#Conclusion: DECISION TREE MODEL HAD THE BEST PERFORMANCE AMONG ALL MODELS IMPLEMENTED
+# Author: Tan Jun Sheng (Jason)
+# Applied Machine Learning (AML)
+# Topic: Building a reliable predictive model to predict employee attrition
+# Task: Predict employee Attrition
+# Model Implemented: Logistic Regression, Decision Tree & Naive Bayes
+# Conclusion: Decision Tree has the best performance in terms of predicting employee attrition 
 
 #####################################
 
