@@ -1,5 +1,12 @@
-#Tan Jun Sheng
-#Assignment Part B
+
+#####################################
+
+# Author: Tan Jun Sheng (Jason)
+# Applied Machine Learning (AML)
+# Topic: Building a reliable predictive model to predict employee attrition
+# Task: Data analysis &  Predict employee Attrition
+
+#####################################
 
 #Import / load dataset into RStudio
 data <- read.csv(file.choose(),header = T)
