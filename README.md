@@ -33,3 +33,42 @@ No | Dataset | Information
 - To identify the key features that could affect prediction of employee attrition
 - To build a model (and evaluate model performance) that could accurately predict employee attrition
 
+# Data Preparation
+- Dataset exploration 🔍
+- Data selection & cleaning 🧹
+  - Removing irrelavant features
+  - Convert data structure to the suitable ones (*cases where categorical variables are loaded as character instead of factor in RStudio*)
+  - Missing values & imputation (*Let's replace the missing values!*)
+  - Feature selection (*Does some variables really significantly contribute to the prediction of employee attrition?*)
+  - Class distribution of the target variable (*It seems there might be a huge class imbalance issue*) --> Data Re-sampling needed!
+![git_8_summary_aml](https://user-images.githubusercontent.com/116934441/218005111-feaf57c7-2695-4eff-bd4b-37d2800127c1.png)
+
+- Exploratory Data Analysis (EDA) 🧮
+  - Univariate analysis
+  - Bivariate analysis
+- One-Hot Encoding / Label Encoding 🖥️
+
+# Model Implementation
+- Logistic Regression (LR)
+- Decision Tree (DT)
+- Naive Bayes (NB)
+
+# Performance Evaluation
+![git_9_model_per_aml](https://user-images.githubusercontent.com/116934441/218007346-110bec9d-3647-46ea-aa86-014603ce3f0d.png)
+- DT performed the best as compared with other models experimented
+- Model perofmrance for DT is consistent
+- The dataset used was the oversampling dataset without the issue of class imbalance
+
+
+# Further Information About the Topic 
+**Employee Attrition Prediction with Python**
+
+- [Employee Attrition Rate Prediction Using Machine Learning](https://www.enjoyalgorithms.com/blog/attrition-rate-prediction-using-ml)
+
+- [Employee Attrition Prediction - A Guide](https://www.analyticsvidhya.com/blog/2021/11/employee-attrition-prediction-a-comprehensive-guide/)
+
+
+
+
+
+
