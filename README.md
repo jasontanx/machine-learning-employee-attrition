@@ -59,6 +59,11 @@ No | Dataset | Information
 - Model perofmrance for DT is consistent
 - The dataset used was the oversampling dataset without the issue of class imbalance
 
+# Recommendations for Future Work
+- Dataset with more observations 
+- Build predictive model with real HR dataset (*Current dataset is a fictional dataset provided by IBM*)
+- Include more variables (*Such as work from home, hybrid or full physical*) 
+- Different feature selection algorithm (*Boruta algorithm was used in this project*)
 
 # Further Information About the Topic 
 **Employee Attrition Prediction with Python**
