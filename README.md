@@ -42,6 +42,7 @@ No | Dataset | Information
   - Feature selection (*Does some variables really significantly contribute to the prediction of employee attrition?*)
   - Class distribution of the target variable (*It seems there might be a huge class imbalance issue*) --> Data Re-sampling needed!
 ![git_8_summary_aml](https://user-images.githubusercontent.com/116934441/218005111-feaf57c7-2695-4eff-bd4b-37d2800127c1.png)
+  - Click here to know more about oversampling --> [What is oversampling or undersampling in machine learning?](https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/)
 
 - Exploratory Data Analysis (EDA) 🧮
   - Univariate analysis
